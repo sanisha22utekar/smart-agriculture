@@ -1,0 +1,15 @@
+smart-agriculture/
+│
+├── app.py
+│
+├── templates/
+│   ├── home.html
+│   ├── login.html
+│   └── dashboard.html
+│
+├── static/
+│   └── style.css
+│
+├── requirements.txt
+│
+└── README.md
